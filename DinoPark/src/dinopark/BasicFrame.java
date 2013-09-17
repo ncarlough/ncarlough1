@@ -10,6 +10,6 @@ public class BasicFrame extends JFrame {
     }
 
     public void paint(Graphics g) {
-
+        g.drawRect(100, 100, 100, 100);
     }
 }
