@@ -2,3 +2,5 @@
 /DinoPark/.idea/*
 /DinoPark/DinoPark.iml
 
+/DinoPark/build/
+/DinoPark/dist/
